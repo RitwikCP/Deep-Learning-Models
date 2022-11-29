@@ -14,6 +14,9 @@ Different layers may perform different transformations on their inputs. Signals 
 ### DATASET
 The dataset is called Churn Modelling dataset. It containes over 14 columns and 100000 rows, all in csv format. Columns include Geography, Credit Score, Gender, Age, Tenure, Balance, etc.
 
+<img width="1029" alt="Screenshot 2022-11-29 at 3 12 56 PM" src="https://user-images.githubusercontent.com/94697656/204494727-8b37aa7a-f5c3-426e-b23e-6363395cf1ac.png">
+
+
 ### BUSINESS PROBLEM
 Given a dataset with a total of 14 dimensions and 100000 records in it, predict whether or not our customer will leave the bank ('Exited' is the dependent variable here).
 
