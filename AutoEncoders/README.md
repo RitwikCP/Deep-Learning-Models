@@ -13,18 +13,18 @@ Some of the most important applications of autoencoders are:
 
 3. Image Transformation: Autoencoders are also used for image transformations, which is typically classified under GAN(Generative Adversarial Networks) models. Using these we can transform B/W images to colored one and vice versa, we can up-sample and down-sample the input data, etc.
 
-## MovieLens 100K Dataset
+## MovieLens 1M Dataset
 ### DATASET
-The dataset is MovieLens 100K dataset. Its is a stable benchmark dataset and contains over 100,000 ratings from 1000 users on 1700 movies, all in csv format.  
+The dataset is MovieLens 1M dataset. Its is a stable benchmark dataset and contains over 1 million ratings from 6000 users on 4000 movies., all in csv format.  
 
 ### PROBLEM
-Given MovieLens 100K dataset, predict movie ratings for the test set.
+Given MovieLens 1M dataset, predict movie ratings for the test set.
 
 ### OBJECTIVE
-To develop a restricted boltzmann machine that takes into account all the given data and predicts ratings accordingly.
+To develop a sparse autoencoder that takes into account all the given data and predicts ratings accordingly.
 
 ### MOTIVATION
-To learn and implement restricted boltzmann machine using a hands-on approach.
+To learn and implement autoencoders using a hands-on approach.
 
 
 ### TECH/FRAMEWORK USED
