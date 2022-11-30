@@ -28,8 +28,6 @@ To develop an convolutional neural network that takes into account all the image
 ### MOTIVATION
 To learn and implement Convolutional Neural Network using a hands-on approach.
 
-### MODEL ACCURACY SCORE ACHIEVED - 85.9%
-
 ### TECH/FRAMEWORK USED
 [Jupyter Notebook](https://jupyter.org/)
 
