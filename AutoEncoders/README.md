@@ -31,4 +31,4 @@ To learn and implement restricted boltzmann machine using a hands-on approach.
 [Jupyter Notebook](https://jupyter.org/)
 
 ### CREDIT
-[Sparse Autoencoder Neural Networks — How to Utilise Sparsity for Robust Information Encoding)](https://towardsdatascience.com/sparse-autoencoder-neural-networks-how-to-utilise-sparsity-for-robust-information-encoding-6aa9ff542bc9))
+[Sparse Autoencoder Neural Networks — How to Utilise Sparsity for Robust Information Encoding)](https://towardsdatascience.com/sparse-autoencoder-neural-networks-how-to-utilise-sparsity-for-robust-information-encoding-6aa9ff542bc9)
