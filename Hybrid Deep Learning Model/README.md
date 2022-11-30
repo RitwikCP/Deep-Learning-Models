@@ -17,7 +17,7 @@ The dataset is called Credit Card Applications dataset. It containes over 15 col
 Given a dataset with a total of 15 dimensions and 690 records in it, predict whether or not our the credit card represents fraudulent transaction or not. Moreover, obtain a ranking of the predicted probabilities that each customer cheated.
 
 ### OBJECTIVE
-To develop a self organizing map that takes into account all given data and predicts whether or not the credit card is associated with fraud. In other words, by the end of it we have to give the explicit list of the customer who potentially cheated and also giev a ranking of the predicted probabilities that each customer cheated.
+To develop a self organizing map that takes into account all given data and predicts whether or not the credit card is associated with fraud and develop an artificial neural network that takes in these results (by SOM) as input and gives ranking of predicted probabilities. In other words, by the end of it we have to give the explicit list of the customer who potentially cheated and also give a ranking of the predicted probabilities that each customer cheated.
 
 ### TECH/FRAMEWORK USED
 [Jupyter Notebook](https://jupyter.org/)
