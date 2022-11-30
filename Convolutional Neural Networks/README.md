@@ -10,6 +10,7 @@ A Convolutional Neural Network (ConvNet/CNN) is a Deep Learning algorithm that c
 ## DOG VS. CATS UISNG CNN
 ### DATASET
 The dataset containes over 10000 images of cats and dogs. Almost 1000 test images and almost 4000 train images for dogs and cats each.
+The dataset can be downloaded from [here](https://www.superdatascience.com/pages/deep-learning) (Part 2: Convolutional Neural Networks (CNN), Datasets & Templates).
 Few images from the dataset are:
 
 ![cat 4052](https://user-images.githubusercontent.com/94697656/204501232-e805c236-615d-4570-bdcc-ee5d9a840bc0.jpg)
